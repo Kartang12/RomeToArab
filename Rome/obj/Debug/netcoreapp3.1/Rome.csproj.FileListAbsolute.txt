@@ -1,0 +1,13 @@
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.exe
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.deps.json
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.runtimeconfig.json
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.runtimeconfig.dev.json
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.dll
+C:\Users\HI BRO\source\repos\Rome\Rome\bin\Debug\netcoreapp3.1\Rome.pdb
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.csprojAssemblyReference.cache
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.AssemblyInfoInputs.cache
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.AssemblyInfo.cs
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.csproj.CoreCompileInputs.cache
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.dll
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.pdb
+C:\Users\HI BRO\source\repos\Rome\Rome\obj\Debug\netcoreapp3.1\Rome.genruntimeconfig.cache
